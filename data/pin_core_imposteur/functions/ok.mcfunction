@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"FONCTION OK executée","bold":true,"color":"yellow"},{"text":" "}]
